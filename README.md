@@ -1,2 +1,2 @@
-# gpu_cls
+# gpu-cls
 try to write a industrial code,this is a classification code
